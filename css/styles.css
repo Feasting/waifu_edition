@@ -7,6 +7,11 @@ body {
  background-color: black;
 }
 
+body.noscroll{
+    //position:fixed;
+    //overflow:hidden;
+}
+
 /*.links {
   position: absolute;
   left: 50%;
@@ -21,11 +26,11 @@ body {
 
 .googleIcon {
 
-	width: 25%;
+	width: 60%;
 	height: auto;
 }
 
 img {
-  width: 70%;
+  width: 100%;
   height: auto;
 }
